@@ -1,4 +1,4 @@
-# JIT_Java_oop
+#OOP in java (JIT)
 java oop repository
 Name: Tokuma Abdisa
 ID: RU2360/13
