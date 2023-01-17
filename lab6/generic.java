@@ -33,5 +33,7 @@ class MaximumTest<T, L, K> {
 
         Integer arr[] = { 1, 2, 3, 4, 5, 6, 7 };
         Display(arr);
+         String Name[] = { "Name1", "Name2", "Name3" };
+        Display(Name);
     }
 }
